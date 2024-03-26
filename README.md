@@ -7,6 +7,15 @@ I'm looking for a domain of a website I visited a few months back.
 ## What? 
 Get google URL history in JSON and sort using linux commands.
 
+## How to run?
+ - Add execute rights:
+ 
+`chmod +x script.sh`
+
+ - Run
+ 
+`./script.sh`
+
 ## Q & A
  - Why not use `jq`?
  
