@@ -10,4 +10,4 @@ Get google URL history in JSON and sort using linux commands.
 ## Q & A
  - Why not use `jq`?
  
-It's an option. I guess. I didn't need to though.
+It's an option. Just didn't need to.
